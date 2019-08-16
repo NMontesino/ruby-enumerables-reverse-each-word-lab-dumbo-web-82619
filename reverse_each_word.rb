@@ -1,4 +1,4 @@
 def reverse_each_word(string)
-  %w(string)
-  
+  sentence_array = %w(string)
+  sent
 end
