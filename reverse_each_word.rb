@@ -1,6 +1,5 @@
 def reverse_each_word(string)
-  string_var = string
-  sentence_array = %w(string_var)
+  sentence_array = %w(string)
   reversed_array = sentence_array.each{|word| word.reverse!}
   reversed_array.join(' ')
 end
